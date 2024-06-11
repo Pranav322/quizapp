@@ -55,6 +55,30 @@ Before you begin, ensure you have met the following requirements:
 - **Taking a quiz**: Users answer questions one by one. Feedback is provided after each question.
 - **Completing a quiz**: Users receive a funny gif as response if they win and their report is updated in Firestore.
 
+OR
+
+### Getting the App
+
+To get started, download the latest version of the app from the [Releases](https://github.com/Pranav322/quizapp/releases/tag/v0.0.1) section.
+
+### Launching the App
+
+Upon launching, users will be prompted to sign in.
+
+### Selecting a Quiz
+
+Users can browse and select a quiz from the list of available topics.
+
+### Taking a Quiz
+
+Users answer questions one by one. Feedback is provided after each question.
+
+### Completing a Quiz
+
+Users receive a funny gif as a response if they win, and their report is updated in Firestore.
+
+
+
 ## Contributing
 
 You can if you have no other work to do.
