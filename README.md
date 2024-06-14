@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/quizapp.git
+    git clone https://github.com/Pranav322/quizapp.git
     cd quizapp
     ```
 
